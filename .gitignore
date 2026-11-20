@@ -1,0 +1,9 @@
+*.bin
+*.zip
+*.exe
+*.dll
+*.pgm
+.venv/
+__pycache__/
+goodix-fp-dump/
+libfprint-27c6-5110/
